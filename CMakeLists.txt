@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.22)
+project(informatics)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(conditional-operator-A conditional-operator/A.cpp)
+add_executable(conditional-operator-B conditional-operator/B.cpp)
+add_executable(conditional-operator-C conditional-operator/C.cpp)
+add_executable(conditional-operator-D conditional-operator/D.cpp)
+add_executable(conditional-operator-E conditional-operator/E.cpp)
+add_executable(conditional-operator-F conditional-operator/F.cpp)
+add_executable(conditional-operator-G conditional-operator/G.cpp)
+add_executable(conditional-operator-H conditional-operator/H.cpp)
+add_executable(conditional-operator-I conditional-operator/I.cpp)
+add_executable(conditional-operator-J conditional-operator/J.cpp)
+add_executable(conditional-operator-K conditional-operator/K.cpp)
