@@ -15,6 +15,11 @@ add_executable(conditional-operator-I conditional-operator/I.cpp)
 add_executable(conditional-operator-J conditional-operator/J.cpp)
 add_executable(conditional-operator-K conditional-operator/K.cpp)
 
+add_executable(data-types-whole-numbers-A data-types/whole-numbers/A.cpp)
+add_executable(data-types-whole-numbers-C data-types/whole-numbers/C.cpp)
+add_executable(data-types-whole-numbers-D data-types/whole-numbers/D.cpp)
+add_executable(data-types-whole-numbers-F data-types/whole-numbers/F.cpp)
+
 add_executable(data-types-structures-A data-types/structures/A.cpp)
 add_executable(data-types-structures-B data-types/structures/B.cpp)
 add_executable(data-types-structures-C data-types/structures/C.cpp)
