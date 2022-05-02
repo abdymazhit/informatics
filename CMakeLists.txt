@@ -51,3 +51,5 @@ add_executable(data-types-symbols-and-lines-task-conditions-K data-types/symbols
 add_executable(data-types-symbols-and-lines-task-conditions-L data-types/symbols-and-lines/task-conditions/L.cpp)
 add_executable(data-types-symbols-and-lines-task-conditions-M data-types/symbols-and-lines/task-conditions/M.cpp)
 add_executable(data-types-symbols-and-lines-task-conditions-N data-types/symbols-and-lines/task-conditions/N.cpp)
+add_executable(data-types-symbols-and-lines-task-conditions-Q data-types/symbols-and-lines/task-conditions/Q.cpp)
+add_executable(data-types-symbols-and-lines-task-conditions-R data-types/symbols-and-lines/task-conditions/R.cpp)
